@@ -1,8 +1,0 @@
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1RENDNiAxNCBBYmFuIDE0MDUiLA0KICAiYWRkIjogInQubWUvdjJyYXluZXRpciIsDQogICJwb3J0IjogIjEiLA0KICAiaWQiOiAiYjUyMTY0MzktZWY5YS00MzkwLTk1MDEtM2RmYjk5ODZiZTYyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIiwNCiAgInZjbiI6ICIiLA0KICAicGNzIjogIiINCn0=
-
-
-
-vless://be8d3828-ca6d-11f1-9e1a-ef79f9d1d2e9@45.91.134.114:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#%F0%9F%94%91%20Reza1-%40v2raynetir
-vless://dd2b7eec-ca6e-11f1-a883-00163e01423e@8.212.164.122:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#%F0%9F%94%91%20Reza2-%40v2raynetir
-vless://be2134be-ca6f-11f1-82da-00163eafd9c8@83.147.235.36:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#%F0%9F%94%91%20Reza3-%40v2raynetir
-vless://54ca67a4-ca71-11f1-b2b7-00163e22f18a@47.82.96.247:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit#%F0%9F%94%91%20Reza4-%40v2raynetir
